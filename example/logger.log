@@ -1,0 +1,3 @@
+{"level":"info","message":"connecting to apache kafka!","extra":{"timestamp":"2021-06-23T17:11:28.124Z","logger":"kafkajs"}}
+{"level":"info","message":"this is a consumer","extra":{"timestamp":"2021-06-23T17:11:28.167Z","logger":"kafkajs"}}
+{"level":"info","message":"this is a producer","extra":{"timestamp":"2021-06-23T17:11:28.170Z","logger":"kafkajs"}}
